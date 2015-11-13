@@ -1,7 +1,3 @@
-//
-// Created by Justin on 11/12/15.
-//
-
 #ifndef DATAGRAMS_CLIENT_H
 #define DATAGRAMS_CLIENT_H
 
